@@ -2,7 +2,7 @@
 
 I ...
 - will soon finish my Master's degree in Computer Science (with Focus on Computer Graphics)
-- like to participate in Game Jams (hit me up)
+- like to participate in Game Jams (DM me if you're looking for a programmer ;D)
 - primarily use Godot for GameDev (currently learning UE5 as well)
 - am most skilled with C++ and Python (and pyTorch), as well as OpenGL (trying to learn Vulkan too)
 
