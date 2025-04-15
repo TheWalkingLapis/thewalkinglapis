@@ -4,7 +4,7 @@ Experienced with Godot
 
 Currently learning Unreal Engine 5
 
-Check out my [Portfolio](https://thewalkinglapis.github.io/)
+Check out my [Portfolio](https://thewalkinglapis.github.io/) (WIP)
 
 <!--
 **TheWalkingLapis/thewalkinglapis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
