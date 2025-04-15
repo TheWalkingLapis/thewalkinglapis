@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey, I'm Max aka. TheWalkingLapis :)
+
+Experienced with Godot
+Currently learning Unreal Engine 5
+
+Check out my [Portfolio](https://thewalkinglapis.github.io/)
 
 <!--
 **TheWalkingLapis/thewalkinglapis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
