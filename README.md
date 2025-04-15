@@ -1,8 +1,10 @@
 ## Hey, I'm Max aka. TheWalkingLapis :)
 
-Experienced with Godot
-
-Currently learning Unreal Engine 5
+I ...
+- will soon finish my Master's degree in Computer Science (with Focus on Computer Graphics)
+- like to participate in Game Jams (hit me up)
+- primarily use Godot for GameDev (currently learning UE5 as well)
+- am most skilled with C++ and Python (and pyTorch), as well as OpenGL (trying to learn Vulkan too)
 
 Check out my [Portfolio](https://thewalkinglapis.github.io/) (WIP)
 
