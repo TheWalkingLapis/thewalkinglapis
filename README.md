@@ -6,7 +6,7 @@ I ...
 - primarily use Godot for GameDev (currently learning UE5 as well)
 - am most skilled with C++ and Python (and pyTorch), as well as OpenGL (trying to learn Vulkan too)
 
-Check out my [Portfolio](https://thewalkinglapis.github.io/) (WIP)
+Check out my [Portfolio](https://thewalkinglapis.github.io/)
 
 <!--
 **TheWalkingLapis/thewalkinglapis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
